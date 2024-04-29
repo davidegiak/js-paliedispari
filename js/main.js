@@ -2,8 +2,8 @@
 let word = prompt("scrivi una parola")
 // Creare una funzione per capire se la parola inserita è palindroma.
 function parola(letter) {
-    for (parola.charAt = 0; parola.charAt < parola.length; parola.charAt++) {
-        return parola.charAt
+    for (word.charAt = 0; word.charAt < word.length; word.charAt++) {
+        return console.log (word.charAt)
     }
 }
 
