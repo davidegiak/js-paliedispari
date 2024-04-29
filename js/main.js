@@ -1,5 +1,5 @@
 // Chiedere all’utente di inserire una parola.
-let word = prompt("scrivi una parola"),parola
+let word = prompt("scrivi una parola")
 // Creare una funzione per capire se la parola inserita è palindroma.
 function parola(letter) {
     for (parola.charAt = 0; parola.charAt < parola.length; parola.charAt++) {
