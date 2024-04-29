@@ -10,13 +10,13 @@ function parola (string) {
     
     
     if (joinString == string) {
-        alert("PALINDROMA")
+        alert("SEI UN CAPO")
     }
     else{
         alert("LOOSER")
     }
     
-    return joinString
+   
 }
 
 // Chiedere all’utente di inserire una parola.
@@ -24,6 +24,6 @@ const parolaUser = prompt("scrivi qui la tua parola");
 
 const risultato = parola(parolaUser);
 
-console.log (risultato)
+
 // Sono accettate solo soluzioni che fanno uso del ciclo.
 // Eventuali soluzioni più "comode" potete aggiungere come extra in un commit separato solo DOPO.
